@@ -1,6 +1,5 @@
-def confusing_function_that_has_bugs(times)
-  # TODO: Fix this whole function
+def print4ntimes(times)
   total_times = 4 * n
-  for i in 0...n
-    for j in 0...3
-      puts “Hi”
+  printStatement = "Hi"
+  for i in 0... total_times
+      puts printStatement
